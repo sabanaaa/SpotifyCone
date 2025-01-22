@@ -3,7 +3,7 @@ import Homepage from "./pages/home/Homepage";
 import AuthCallbackPage from "./pages/auth-callback/AuthCalbackPage";
 import { AuthenticateWithRedirectCallback } from "@clerk/clerk-react";
 import MainLayout from "./layout/MainLayout";
-import ChatPage from "./pages/chat/ChatPage";
+import ChatPage from "./pages/chat/ChatPage";       
 
 function App() {
   return (
